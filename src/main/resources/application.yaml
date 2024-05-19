@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hs
+bot:
+  name:
+  token:
